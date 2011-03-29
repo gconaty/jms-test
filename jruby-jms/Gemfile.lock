@@ -1,0 +1,11 @@
+GEM
+  specs:
+    awesome_print (0.3.2)
+    jruby-jms (0.10.2)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  awesome_print
+  jruby-jms

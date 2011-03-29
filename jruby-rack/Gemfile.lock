@@ -1,0 +1,11 @@
+GEM
+  specs:
+    awesome_print (0.3.2)
+    jruby-rack (1.0.8.ccllc.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  awesome_print
+  jruby-rack (= 1.0.8.ccllc.1)
